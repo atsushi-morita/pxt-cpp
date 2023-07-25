@@ -10,7 +10,9 @@
     "files": [
         "README.md",
         "main.blocks",
-        "main.ts"
+        "main.ts",
+        "myExtension.cpp",
+        "shims.d.ts"
     ],
     "testFiles": [
         "test.ts"
